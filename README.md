@@ -10,13 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech IT Student
-- 💻 Passionate Full Stack Developer
-- 🌱 Currently learning **Next.js**, **PostgreSQL**, **System Design**, and **AWS**
-- 🧠 Solving DSA using **Java**
-- 🚀 Building scalable web applications
-- 🐧 Linux User (Arch / EndeavourOS)
 
----
 
 ## 🚀 Tech Stack
 
