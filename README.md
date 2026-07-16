@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Next.js Learner | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Learning+System+Design+%26+Cloud;Always+Learning+Something+New+🚀" />
-</p>
+
 
 ---
 
