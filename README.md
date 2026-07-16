@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -39,12 +38,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,postman" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=manishchoudhary&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
