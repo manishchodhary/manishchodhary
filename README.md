@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Next.js Learner | Problem Solver</h3>
-
 
 
 ---
@@ -50,17 +48,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=manishchoudhary&theme=tokyonight&hide_border=true)
-
----
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manishchoudhary&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🚀 Current Focus
 
@@ -76,7 +64,7 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/manishchoudhary">
+<a href="https://github.com/manishchodhary">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
